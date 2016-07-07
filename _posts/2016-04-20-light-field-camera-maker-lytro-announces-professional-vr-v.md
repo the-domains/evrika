@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-06T19:33:13.523Z'
+datePublished: '2016-07-07T19:27:56.960Z'
 sourcePath: >-
   _posts/2016-04-20-light-field-camera-maker-lytro-announces-professional-vr-v.md
 inFeed: true
@@ -19,7 +19,7 @@ keywords:
   - field
 related: []
 author: []
-dateModified: '2016-07-06T19:33:13.404Z'
+dateModified: '2016-07-07T19:27:56.348Z'
 title: Evrika Research Technologies
 app_links: []
 publisher:
