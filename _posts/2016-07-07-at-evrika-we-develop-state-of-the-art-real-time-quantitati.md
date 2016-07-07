@@ -1,16 +1,16 @@
 ---
 description: >-
   At Evrika, we develop state of the art, real-time quantitative ultrasound
-  technologies. 
-dateModified: '2016-07-07T19:48:43.942Z'
-datePublished: '2016-07-07T19:49:04.759Z'
-title: ''
+  technologies.
+dateModified: '2016-07-07T19:50:34.212Z'
+datePublished: '2016-07-07T19:50:34.555Z'
+title: Evrika Research Technologies
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/37f1a5b6-15c3-4d72-b150-109ca4534d0b.tif
-starred: false
 sourcePath: >-
   _posts/2016-07-07-at-evrika-we-develop-state-of-the-art-real-time-quantitati.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
