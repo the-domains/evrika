@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Evrika]]></title>
+        <description><![CDATA[Evrika]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 19:56:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Evrika Research Technologies]]></title>
+            <description><![CDATA[<article><h1>Evrika Research Technologies</h1><p>At Evrika, we develop state of the art, real-time quantitative ultrasound technologies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/86d1d3d2321b965bd6574cf070beb5fc/croprotate.png?cropheight=257&cropwidth=265&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F719e2290-5fc4-43ba-b908-ba3022ecc5fc.png&x=4&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/37f1a5b6-15c3-4d72-b150-109ca4534d0b.tif</link>
+            <guid isPermaLink="false">21fb553d-3c9d-43f5-8de6-72883f335efd</guid>
+            <pubDate>Thu, 07 Jul 2016 19:56:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
