@@ -13,6 +13,8 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.8250703525263816
+analytics:
+  google: UA-80549435-1
 author:
   name: Evrika Research Technologies
   email: inquiries@evrika.ca
