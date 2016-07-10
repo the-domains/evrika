@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-07-10T03:09:46.933Z'
-datePublished: '2016-07-10T03:10:01.852Z'
+dateModified: '2016-07-10T03:16:51.596Z'
+datePublished: '2016-07-10T03:16:54.648Z'
 title: Facilitate
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a51ea6-f7be-42fc-a90f-6059cf865cfc.png
 sourcePath: _posts/2016-07-10-here-is-a-test-of-a-new-page.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
