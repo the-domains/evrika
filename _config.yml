@@ -1,18 +1,18 @@
-typography_spectrum: 0.07040436286479235
+typography_spectrum: 0.4755829246714711
 content_rating:
   adult: false
 color:
-  brandStrength: 0.6120733851566911
-  lightness: 0.4710327952634543
-  saturation: 0.7231707077007741
-  rhythmicContrast: 0.7006020571570843
+  brandStrength: 0.6793769802898169
+  lightness: 0.11902129580266774
+  saturation: 0.09145418438129127
+  rhythmicContrast: 0.8027364918962121
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.8250703525263816
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+layout_spectrum: 0.5090062534436584
 analytics:
   google: UA-80549435-1
 author:
