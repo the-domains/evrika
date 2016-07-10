@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-07-10T02:55:53.503Z'
-datePublished: '2016-07-10T02:55:54.880Z'
+dateModified: '2016-07-10T02:59:19.931Z'
+datePublished: '2016-07-10T02:59:25.242Z'
 title: Facilitate
 author: []
 isBasedOnUrl: >-
@@ -20,7 +20,3 @@ _type: MediaObject
 * Innovative GASP Technologies
 * Collaboration with Industry and Academia
 * State of the are in QUS Tissue Characterization
-
-ERT G.A.S.P Demo
-
-Microsoft Game DVR
