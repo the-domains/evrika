@@ -2,9 +2,9 @@
 description: >-
   At Evrika, we develop state of the art, real-time quantitative ultrasound
   technologies.
-dateModified: '2016-07-10T01:28:10.967Z'
-datePublished: '2016-07-10T01:28:20.517Z'
-title: Evrika - FAST Ultrasound Technologies
+dateModified: '2016-07-10T01:39:04.839Z'
+datePublished: '2016-07-10T01:39:24.747Z'
+title: ''
 author:
   - {}
 isBasedOnUrl: >-
