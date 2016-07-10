@@ -1,13 +1,13 @@
 ---
 description: QUS Applications
-dateModified: '2016-07-10T02:33:54.586Z'
-datePublished: '2016-07-10T02:33:54.901Z'
+dateModified: '2016-07-10T02:33:56.278Z'
+datePublished: '2016-07-10T02:33:57.121Z'
 title: Facilitate
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a51ea6-f7be-42fc-a90f-6059cf865cfc.png
 sourcePath: _posts/2016-07-10-here-is-a-test-of-a-new-page.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
