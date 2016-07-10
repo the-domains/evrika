@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-07-10T02:59:19.931Z'
-datePublished: '2016-07-10T02:59:25.242Z'
+dateModified: '2016-07-10T03:09:46.933Z'
+datePublished: '2016-07-10T03:10:01.852Z'
 title: Facilitate
 author: []
 isBasedOnUrl: >-
@@ -16,7 +16,7 @@ _type: MediaObject
 ---
 # _**Facilitate**_
 
-* * QUS Applications
+* QUS Applications
 * Innovative GASP Technologies
 * Collaboration with Industry and Academia
 * State of the are in QUS Tissue Characterization
