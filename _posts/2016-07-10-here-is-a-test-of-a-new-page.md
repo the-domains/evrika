@@ -1,7 +1,7 @@
 ---
-description: QUS Applications
-dateModified: '2016-07-10T02:33:56.278Z'
-datePublished: '2016-07-10T02:33:57.121Z'
+description: ''
+dateModified: '2016-07-10T02:53:16.986Z'
+datePublished: '2016-07-10T02:53:20.771Z'
 title: Facilitate
 author: []
 isBasedOnUrl: >-
@@ -16,8 +16,11 @@ _type: MediaObject
 ---
 # _**Facilitate**_
 
-QUS Applications
+* * QUS Applications
+* Innovative GASP Technologies
+* Collaboration with Industry and Academia
+* State of the are in QUS Tissue Characterization
 
-1. Innovative GASP Technologies
-2. Collaboration with Industry and Academia
-3. State of the are in QUS Tissue Characterization
+ERT G.A.S.P Demo
+
+Microsoft Game DVR
