@@ -1,8 +1,8 @@
 ---
-description: Here is a test of a new page
-dateModified: '2016-07-10T01:35:28.654Z'
-datePublished: '2016-07-10T01:39:25.080Z'
-title: ''
+description: ''
+dateModified: '2016-07-10T02:12:18.703Z'
+datePublished: '2016-07-10T02:12:27.815Z'
+title: Facilitate
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a51ea6-f7be-42fc-a90f-6059cf865cfc.png
@@ -14,7 +14,9 @@ inNav: false
 _type: MediaObject
 
 ---
-Here is a test of a new page
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7444abc574de52d56f9b9906eaaa365d17bbe824.png)
+# Facilitate
 
-And here we go with more content
+* QUS Applications
+* Innovative GASP Technologies
+* Collaboration with Industry and Academia
+* State of the are in QUS Tissue Characterization
