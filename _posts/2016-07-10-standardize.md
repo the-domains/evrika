@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-07-10T03:19:34.600Z'
-datePublished: '2016-07-10T03:19:40.035Z'
+dateModified: '2016-07-10T03:24:05.537Z'
+datePublished: '2016-07-10T03:24:10.041Z'
 title: Standardize
 author: []
-starred: false
 sourcePath: _posts/2016-07-10-standardize.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -14,6 +14,6 @@ _type: MediaObject
 ---
 # **Standardize**
 
-* Ultrasound Spectroscopy 
+* Ultrasound Spectroscopy
 * Cross-Platform Computation
 * Analytical Processes
